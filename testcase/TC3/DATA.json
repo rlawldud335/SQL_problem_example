@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Sybil Lang",
+		"phone": "(776) 356-6831",
+		"email": "dui@yahoo.edu",
+		"country": "Russian Federation",
+		"list": 1,
+		"address": "3466 Nibh Ave",
+		"region": "Ternopil oblast",
+		"postalZip": "6975 VS",
+		"text": "nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod enim.",
+		"numberrange": 1,
+		"currency": "$67.28"
+	},
+	{
+		"name": "Clementine Booth",
+		"phone": "1-656-621-8915",
+		"email": "natoque.penatibus@protonmail.net",
+		"country": "Ireland",
+		"list": 5,
+		"address": "P.O. Box 403, 5259 Nullam Street",
+		"region": "Zaporizhzhia oblast",
+		"postalZip": "H9L 8Z4",
+		"text": "augue malesuada malesuada. Integer id magna et ipsum cursus vestibulum.",
+		"numberrange": 7,
+		"currency": "$97.40"
+	},
+	{
+		"name": "Brady Ashley",
+		"phone": "1-407-746-9571",
+		"email": "dolor@yahoo.ca",
+		"country": "Sweden",
+		"list": 17,
+		"address": "4495 Sit Av.",
+		"region": "Gävleborgs län",
+		"postalZip": "8012",
+		"text": "metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper",
+		"numberrange": 9,
+		"currency": "$66.62"
+	},
+	{
+		"name": "Arthur Morrison",
+		"phone": "(562) 667-1453",
+		"email": "auctor.quis.tristique@google.edu",
+		"country": "Australia",
+		"list": 5,
+		"address": "P.O. Box 717, 2770 Proin St.",
+		"region": "Hessen",
+		"postalZip": "38723",
+		"text": "vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie",
+		"numberrange": 3,
+		"currency": "$11.59"
+	},
+	{
+		"name": "Judith Bright",
+		"phone": "(453) 883-6372",
+		"email": "molestie@yahoo.edu",
+		"country": "Costa Rica",
+		"list": 5,
+		"address": "2244 Sed Ave",
+		"region": "Utrecht",
+		"postalZip": "817954",
+		"text": "Aliquam nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus",
+		"numberrange": 3,
+		"currency": "$63.12"
+	}
+]
